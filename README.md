@@ -1,5 +1,5 @@
 
-# SBEVNet: End-to-End Deep Stereo Layout Estimation
+# SBEVNet: End-to-End Deep Stereo Bird's Eye View Layout Estimation
 
 This repository contains the code for "SBEVNet: End-to-End Deep Stereo Layout Estimation" paper by Divam Gupta, Wei Pu, Trenton Tabor, Jeff Schneider
 
