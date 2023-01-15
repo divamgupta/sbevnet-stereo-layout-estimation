@@ -24,10 +24,9 @@ For the example we use the following directories:
 * Predictions :  ./predictions/kitti ./predictions/carla 
 
 Download and unzip the datasets and place them in ./datasets directory 
-* CARLA dataset: https://drive.google.com/file/d/1Ow1cfISLqYKxid-XPGuBvBlE4zjldjZ0/view?usp=sharing
-* KITTI dataset: https://drive.google.com/file/d/1kvcBtS2fSN4MFBnbQ7qPsWNdIotgqECy/view?usp=sharing 
-* Trained models: https://drive.google.com/file/d/1Y2aICr7pr0AjwSmMqMTWf8PkhoSA14Zu/view?usp=sharing 
-
+* CARLA dataset: https://huggingface.co/datasets/divamgupta/sbevnet_data/tree/main
+* KITTI dataset: https://huggingface.co/datasets/divamgupta/sbevnet_data/tree/main 
+* Trained models: https://huggingface.co/datasets/divamgupta/sbevnet_data/tree/main
 
 
 
